@@ -9,13 +9,7 @@ Original file is located at
 
 pip install streamlit
 
-!pip install pyngrok
 
-!ngrok authtoken 2nhzDXWq914212T0rp1WK5ei38D_GGwpYz7A8BtZvH4xALpe
-
-!pkill -f streamlit
-
-!pkill -f ngrok
 
 # Commented out IPython magic to ensure Python compatibility.
 # %%writefile app.py
